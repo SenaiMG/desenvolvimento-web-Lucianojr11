@@ -1,8 +1,15 @@
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/exocr63T)
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-7f7980b617ed060a017424585567c406b6ee15c891e84e1186181d67ecf80aa0.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=11529906)
 # Site de Indústria de Vestuário com Django
 
 Este repositório contém um projeto de site desenvolvido com Django, focado no tema da indústria de vestuário. O site utiliza tecnologias como Python, Django, HTML5, CSS3 e Bootstrap 5 para criar uma plataforma atrativa e funcional relacionada ao mundo da moda e vestuário.
+
+O nome do site é Vestuario Chick sendo um trocadilho com a palavra chique
+
+para acessar a pagina basta digitar: http://127.0.0.1:8000/pagina/
+
+No momento pode-se acessar a aba pagina-Nossa equipe
 
 ## Pré-requisitos
 
@@ -51,7 +58,6 @@ python manage.py migrate
 ```sh
 python manage.py runserver
 ```
-Acesse o site em seu navegador em http://127.0.0.1:8000/pagina/
 
 
 ## Contribuição
