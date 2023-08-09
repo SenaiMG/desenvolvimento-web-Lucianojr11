@@ -51,7 +51,7 @@ python manage.py migrate
 ```sh
 python manage.py runserver
 ```
-Acesse o site em seu navegador em http://localhost:8000/.
+Acesse o site em seu navegador em http://127.0.0.1:8000/pagina/
 
 
 ## Contribuição
